@@ -3,7 +3,7 @@ package timbulchalka;
 public class LeapYearCalculator {
 
     public static void main(String[] args) {
-        System.out.println(isLeapYear(1924));
+        System.out.println(isLeapYear(9000));
     }
 
     public static boolean isLeapYear(int year){
