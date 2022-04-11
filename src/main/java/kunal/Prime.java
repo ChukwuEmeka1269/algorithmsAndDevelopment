@@ -52,4 +52,19 @@ public class Prime {
         }
         return number + " is prime";
     }
+
+    public static boolean isPrime(int number){
+        if(number <= 1){
+            return false;
+        }
+        int temp = 2;
+        while(temp < number){
+            if(number % temp == 0){
+                return false;
+            }
+            temp++;
+        }
+
+        return true;
+    }
 }

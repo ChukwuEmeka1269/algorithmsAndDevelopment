@@ -4,11 +4,12 @@ package kunal;
 public class FibonacciNumber {
 
     public static void main(String[] args) {
-        System.out.println(fib(9));
+//        System.out.println(fib(9));
+        System.out.println(nthFib(47));
     }
 
     //Nth fibonacci number
-    public static int fib(int nthFib){
+    public static long fib(int nthFib){
         int count = 2;
         int prev = 0;
         int current = 1;
@@ -19,5 +20,14 @@ public class FibonacciNumber {
             count++;
         }
         return current;
+    }
+
+    //Solving recursively
+    public static int nthFib(int num){
+        if(num < 2){
+            return num;
+        }
+
+        return nthFib(num -1) + nthFib(num -2);
     }
 }

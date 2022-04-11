@@ -1,0 +1,13 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¦Ğ½
+E
+java:S2201N"/The return value of "toLowerCase" must be used.(‘úÑ—
+M
+java:S1854Y"7Remove this useless assignment to local variable "num".(ÿ¢ãË
+M
+java:S1854X"7Remove this useless assignment to local variable "str".(ˆãˆü
+>
+java:S1481X"(Remove this unused "str" local variable.(ˆãˆü
+>
+java:S1481Y"(Remove this unused "num" local variable.(ÿ¢ãË
+Q	java:S125Z"<This block of commented-out lines of code should be removed.(”é‹»

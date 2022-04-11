@@ -1,0 +1,24 @@
+
+V	java:S125+"<This block of commented-out lines of code should be removed.(ß³µ©üÿÿÿÿ
+V	java:S125-"<This block of commented-out lines of code should be removed.(ÂÚ³õÿÿÿÿÿ
+V	java:S125/"<This block of commented-out lines of code should be removed.(°›°ùÿÿÿÿ
+V	java:S1251"<This block of commented-out lines of code should be removed.(¶áòçÿÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(°ŠÕ€ÿÿÿÿÿ
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(¯ö†¢úÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(µŒ¸Îùÿÿÿÿ
+L
+java:S1068"6Remove this unused "CREATE_TABLE_QUERY" private field.(åòÉ
+P
+java:S1068";Remove this unused "INSERT_INTO_TABLE_QUERY" private field.(Ãßã
+L
+java:S1068"6Remove this unused "UPDATE_TABLE_QUERY" private field.(îšõÀ
+M
+java:S1068!"7Remove this unused "DELETE_RECORD_QUERY" private field.(ˆ¨£·
+^
+java:S1192"HDefine a constant instead of duplicating this literal "UPDATE " 4 times.(îšõÀ
+_
+java:S1192"IDefine a constant instead of duplicating this literal "='Flash'" 4 times.(Ò ¶
+^
+java:S1192\"HDefine a constant instead of duplicating this literal "' WHERE" 3 times.(ÊüÜî
+\
+java:S1192"FDefine a constant instead of duplicating this literal " SET " 4 times.(âˆÚ…
