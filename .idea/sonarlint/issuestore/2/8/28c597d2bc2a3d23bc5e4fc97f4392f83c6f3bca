@@ -1,0 +1,23 @@
+
+S
+java:S1854""8Remove this useless assignment to local variable "mike".(˜“ÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(­Š …ùÿÿÿÿ
+D
+java:S1481"")Remove this unused "mike" local variable.(˜“ÿÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(——Ö¼øÿÿÿÿ
+V	java:S125#"<This block of commented-out lines of code should be removed.(³ş‹²ıÿÿÿÿ
+V	java:S125("<This block of commented-out lines of code should be removed.(‹¶üíúÿÿÿÿ
+V	java:S125+"<This block of commented-out lines of code should be removed.(‚ˆóÿÿÿÿÿ
+Q	java:S1250"<This block of commented-out lines of code should be removed.(ãÈ¹
+Q	java:S1254"<This block of commented-out lines of code should be removed.(‰™¼¢
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ˆ“¾şÿÿÿÿ
+;
+java:S1128"%Remove this unused import 'java.sql'.(´İ…Å
+O
+java:S1068"9Remove this unused "CONNECTION_URL_STRING" private field.(§õã²
+K
+java:S1068"5Remove this unused "DATABASE_USERNAME" private field.(Ç½’
+P
+java:S1068"5Remove this unused "DATABASE_PASSWORD" private field.(åëÈ¨üÿÿÿÿ
+N
+java:S1068	"3Remove this unused "RETRIEVAL_QUERY" private field.(€Úëıÿÿÿÿ

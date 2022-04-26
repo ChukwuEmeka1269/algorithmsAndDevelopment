@@ -1,0 +1,11 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ùšµâ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š‹©ûÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(€àÕ†
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ô£ÑŞ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éÎø×øÿÿÿÿ
+D
+java:S1144")Remove this unused private "even" method.(Á¶Û»ıÿÿÿÿ
+A
+java:S1144)"+Remove this unused private "digits" method.(‡´Šá
