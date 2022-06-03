@@ -1,0 +1,66 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ö¬
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(Ì­ôçşÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(ö¬
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(Ú§ÈÖúÿÿÿÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(¢ı’·
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(ö¬
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(ö¬
+P	java:S125k"<This block of commented-out lines of code should be removed.(‘¿‡y
+H
+java:S1481n"-Remove this unused "userData" local variable.(ÛŠØøÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(û£•‰ÿÿÿÿÿ
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(¥ÆÖ¤ıÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ö¬
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(ö¬
+B
+java:S1168–"+Return an empty collection instead of null.(¥¹ï
+A
+java:S2695Ÿ"+This "PreparedStatement" has no parameters.(†¹¹Y
+B
+java:S2695 "+This "PreparedStatement" has no parameters.(›û¦Ÿ
+G
+java:S2695¡"+This "PreparedStatement" has no parameters.(âÏêõıÿÿÿÿ
+G
+java:S2695¢"+This "PreparedStatement" has no parameters.(—úÛûøÿÿÿÿ
+B
+java:S2695£"+This "PreparedStatement" has no parameters.(Á½„¤
+N	java:S106¨"9Replace this use of System.out or System.err by a logger.(³áÛi
+O	java:S106¬"9Replace this use of System.out or System.err by a logger.(ö¬
+O	java:S106±"9Replace this use of System.out or System.err by a logger.(ö¬
+T	java:S106¼"9Replace this use of System.out or System.err by a logger.(Œ«–úÿÿÿÿ
+O	java:S106Á"9Replace this use of System.out or System.err by a logger.(ö¬
+O	java:S106Æ"9Replace this use of System.out or System.err by a logger.(ö¬
+T	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(Œ«–úÿÿÿÿ
+O	java:S106Ö"9Replace this use of System.out or System.err by a logger.(ö¬
+O	java:S106Û"9Replace this use of System.out or System.err by a logger.(ö¬
+T	java:S106æ"9Replace this use of System.out or System.err by a logger.(Œ«–úÿÿÿÿ
+O	java:S106ë"9Replace this use of System.out or System.err by a logger.(ö¬
+O	java:S106ğ"9Replace this use of System.out or System.err by a logger.(ö¬
+q
+java:S1192¸"UDefine a constant instead of duplicating this literal "' WHERE username = '" 3 times.(ûâÜ˜ùÿÿÿÿ
+a
+java:S1192I"FDefine a constant instead of duplicating this literal "roles" 4 times.(¶µÃšûÿÿÿÿ
+b
+java:S1192J"GDefine a constant instead of duplicating this literal "active" 4 times.(·Ø¢òıÿÿÿÿ
+o
+java:S1192¼"SDefine a constant instead of duplicating this literal " row(s) affected. " 3 times.(Œ«–úÿÿÿÿ
+d
+java:S1192I"IDefine a constant instead of duplicating this literal "password" 4 times.(¶µÃšûÿÿÿÿ
+_
+java:S1192H"IDefine a constant instead of duplicating this literal "username" 4 times.(ÇÃÒ¡
+f	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘œ¤ı
+j
+java:S2095!"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(œÙ¦úÿÿÿÿ
+f
+java:S2095ä"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‡Ã‚ù
+b
+java:S2095C"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+b
+java:S2095l"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+k
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒÍÚ—ıÿÿÿÿ
+f
+java:S2095º"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‡Ã‚ù
+f
+java:S2095Ï"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(‡Ã‚ù

@@ -1,0 +1,7 @@
+
+T
+java:S1854">Remove this useless assignment to local variable "bigInteger".(‡÷“³
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(¦ýÖ†
+E
+java:S1481"/Remove this unused "bigInteger" local variable.(‡÷“³

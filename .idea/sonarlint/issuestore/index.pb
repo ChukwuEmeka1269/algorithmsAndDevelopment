@@ -13,12 +13,8 @@ a
 1src/main/java/kunal/PeakIndexInMountainArray.java,4/2/42a55688b55ecd0789cae2457950c63a355f4082
 V
 &src/main/java/kunal/MaximumWealth.java,e/1/e162e8197107a5d0a559a6764bb78c44f71b3ffa
-U
-%src/main/java/kunal/LinearSearch.java,0/4/041eeb258aed912754b6c007a2086bad78f6e4c1
 \
 ,src/main/java/kunal/InfiniteArraySearch.java,7/0/701c58b0d9cca501c7929544af2402379ac64e96
-W
-'src/main/java/kunal/ReverseNumbers.java,8/4/847f8ff718c27db66a068f505d031bbfa0d51d31
 c
 3src/main/java/kindsonTheTechPro/BubbleSortAlgo.java,7/1/7154cce7777a90ae04735fe5d807b574f46bf485
 S
@@ -35,10 +31,6 @@ X
 (src/main/java/katryn/CheckUpperCase.java,f/1/f1c266fa9154ea1682918ae842d8151fc10ad23e
 Z
 *src/main/java/kunal/SortingAlgorithms.java,6/3/6374d7b3576cc100c29d4d6b4969a1e6dcff8aaa
-T
-$src/main/java/kunal/FindNumbers.java,3/a/3ac9f7b400a7e34519033a0bcbd614ad092b7c86
-X
-(src/main/java/kunal/FibonacciNumber.java,6/6/66c6d5a41b21b59675bd72ba25acf2ef1e333f5f
 W
 'src/main/java/jdbc/model/ProcessDB.java,a/e/ae33e61f7982b0bf92745feed24cf76bed78be3d
 T
@@ -55,3 +47,23 @@ W
 'src/main/java/jdbc/ConnectingMysql.java,2/8/28c597d2bc2a3d23bc5e4fc97f4392f83c6f3bca
 L
 src/main/java/jdbc/User.java,e/4/e426231694c534753881617b72723a59e1a43eca
+h
+8src/main/java/jdbc/ConnectingWithPreparedStatements.java,d/e/deb645821bd94fd223b58b58722fa2471ec3cd18
+P
+ src/main/java/jdbc/DaoClass.java,8/4/846f0486aebf38a3d35244a03bc1244057346cb6
+`
+0src/main/java/linkedinlearning/KathrynHodge.java,7/e/7efbc52f7d73ee04b15d742f3fc1ce0872750319
+\
+,src/main/java/linkedinlearning/Example1.java,a/7/a7c4deb2d273d68aca521ca1e8bffbed64bbf46c
+\
+,src/main/java/linkedinlearning/Example2.java,3/5/356fd2b0db96b7afd997d0731a918ec6a73801ab
+Z
+*src/main/java/linkedinlearning/Ex1122.java,b/4/b45715a08314f50135dbd6f2ee81bd7320b247c9
+^
+.src/main/java/kunal/bit_operator/Example1.java,7/9/79da59323c685688179814059995b898348de5c2
+k
+;src/main/java/kunal/bit_operator/UniqueNumberInAnArray.java,d/c/dc987a12625a52f3ebb9eb6a47ea778e8acb2fb9
+T
+$src/main/java/kunal/FindNumbers.java,3/a/3ac9f7b400a7e34519033a0bcbd614ad092b7c86
+X
+(src/main/java/kunal/FibonacciNumber.java,6/6/66c6d5a41b21b59675bd72ba25acf2ef1e333f5f

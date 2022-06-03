@@ -15,7 +15,6 @@ public class ReverseNumbers {
         while(number > 0){
             temp = number % 10;
             number /= 10;
-
             result = (result * 10) + temp;
         }
         return result;
